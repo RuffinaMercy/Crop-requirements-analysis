@@ -52,18 +52,31 @@ This project involves predicting the fertilizer requirements (NPK values) for di
 
 
 Enter Temperature: 30.5
+
 Enter Humidity: 65
+
 Enter Moisture: 20
+
 Available soil types: sandy, loamy, clayey
+
 Enter Soil Type: loamy
+
 The predicted crop type that can be grown is: Wheat
+
 Would you like to calculate the NPK fertilizer requirements for this crop? (yes/no): yes
+
 Enter the soil nitrogen (N) value for the crop: 15
+
 Enter the soil phosphorus (P) value for the crop: 10
+
 Enter the soil potassium (K) value for the crop: 5
+
 For crop type 'Wheat', the required fertilizers are:
+
 DAP: 25.34 kg
+
 Urea: 16.21 kg
+
 MOP: 10.56 kg
 ```
 
